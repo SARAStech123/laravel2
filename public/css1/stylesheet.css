@@ -1,0 +1,52 @@
+body {
+  background-color: ghostwhite;
+}
+
+.heading{
+  text-align: center;
+  text-decoration: underline;
+  padding-top: 20px;
+}
+
+
+.content{
+  text-decoration: blink;
+  text-decoration-color: brown;
+  inline-size: ;
+}
+
+
+.field input[type=text]{
+  width:100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  text-size-adjust: ;
+}
+
+.btn1{
+  align-items: right ;
+ /* padding-right: 50px;*/
+  position: relative;
+  left: 400px;
+}
+
+.btn2{
+  align-items: right ;
+ /* padding-right: 50px;*/
+  position: relative;
+  left: 400px;
+}
+
+
+.browsebtn1{
+  position: relative;
+  left: 400px;
+}
+.browsebtn2{
+  position: relative;
+  left: 400px;
+}
+footer{
+  text-align: right;
+}

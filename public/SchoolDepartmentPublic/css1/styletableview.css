@@ -1,0 +1,41 @@
+body {
+  background-color: ghostwhite;
+ }
+.heading{
+  
+  text-align: center;
+ /* text-decoration: underline;*/
+  padding-top: 10px;
+}
+
+.search{
+	position: relative;
+  left: 500px;
+}
+ 
+footer{
+  text-align: right;
+  background-color: #e3f2fd;
+}
+
+table,td,th{
+  max-width: 50%;
+   border: 1px solid black;
+  border-collapse: collapse;
+}
+th {
+  padding: 5px;
+  text-align: left;
+}
+td{
+  padding: 10px;
+  text-align: left;
+}
+table.center {
+  margin-left: auto; 
+  margin-right: auto;
+}
+
+button{
+  align-self: center;
+}

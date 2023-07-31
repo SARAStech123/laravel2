@@ -1,0 +1,15 @@
+body {
+  background-color: ghostwhite;
+ }
+
+.heading{
+  
+  text-align: center;
+ /* text-decoration: underline;*/
+  padding-top: 10px;
+}
+
+footer{
+  text-align: right;
+  background-color: #e3f2fd;
+}
